@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/ARQUIVOS%20DO%20PAULO/NEW%20ANDROID/ANDROID%20MATERIALS/GOOGLE%20TUTORIALS/ExemploWebView/app/src/main/res/values-w820dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>
