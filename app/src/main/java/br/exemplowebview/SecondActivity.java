@@ -24,6 +24,8 @@ public class SecondActivity extends Activity {
 
         mainActivity = new MainActivity();
 
+
+        // A little problem here!!
         name.setText(mainActivity.getName());
         email.setText(mainActivity.getEmail());
         password.setText(mainActivity.getPassword());
